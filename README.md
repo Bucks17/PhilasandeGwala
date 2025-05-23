@@ -8,7 +8,7 @@ PHILASANDE GWALA – WORK READINESS DIGITAL PORTFOLIO
 
 The following artefacts represent my academic and professional development during my work readiness training:
 
- Updated [Curriculum Vitae](PHILASANDE%20GWALA%20cv%202.pdf)
+
  Programming assignments (Java, Python, PHP)
  Group project reports and presentation slides
  Reflections on collaboration and communication
